@@ -1,0 +1,37 @@
+[
+    {
+      "name": "Cinc propostes per descobrir el nou festival dedicat a les flors i les plantes",
+      "id": 1,
+      "autor": "Mar Rocaber Maltas",
+      "link": "https://cat.elpais.com/cat/2019/05/17/estilo/1558085604_189073.html",
+      "tema": "Cultura"
+    },
+    {
+      "name": "Les primeres plantes florals del planeta van créixer al Montsec",
+      "id": 5,
+      "autor": "Miguel Ángel Criado",
+      "link": "https://cat.elpais.com/cat/2015/08/17/ciencia/1439821926_204552.html",
+      "tema": "Història"
+    },
+    {
+      "name": "Les 7 millors aplicacions per reconèixer plantes",
+      "id": 3,
+      "autor":"Alfonso Duro Pèrez",
+      "link": "https://www.elperiodico.cat/ca/entre-tots/20211110/aplicacions-reconeixer-plantes-millors-app-12831232",
+      "tema": "Tecnologia"
+    },
+    {
+      "name": "Les plantes també criden quan se senten estressades o amenaçades",
+      "id": 4,
+      "autor": "Xavier Duran Roig",
+      "link": "https://www.ccma.cat/324/les-plantes-tambe-criden-quan-se-senten-estressades-o-amenacades/noticia/2971716/",
+      "tema": "Natura"
+    },
+    {
+      "name": "Flors seques, una decoració diferent i actual",
+      "id": 2,
+      "autor": "Gonzálo Ramos Linares",
+      "link": "https://www.noticiescomunitat.com/flors-seques-decoracio-diferent-actual/",
+      "tema": "Llar"
+    }
+  ]

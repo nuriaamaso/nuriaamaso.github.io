@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Blat tronja sec",
+      "id": 1,
+      "srcimg": "https://floressecas.com/4369-medium_default/trigo-seco-naranja-mazo.jpg"
+    },
+    {
+      "name": "Plumes tronjes secques",
+      "id": 2,
+      "srcimg": "https://floressecas.com/4410-medium_default/plumas-secas-reed-long-kyan.jpg"
+    },
+    {
+      "name": "Broom roig sec",
+      "id": 3,
+      "srcimg":"https://floressecas.com/4360-medium_default/broom-bloom-seco-rojo-mazo.jpg"
+    },
+    {
+      "name": "Margarita seca groga",
+      "id": 4,
+      "srcimg": "https://floressecas.com/4340-medium_default/anaphalis-seca-amarilla-mazo.jpg"
+    },
+    {
+      "name": "Blat verd sec",
+      "id": 5,
+      "srcimg": "https://floressecas.com/4324-medium_default/trigo-seco-verde-mazo.jpg"
+    },
+    {
+      "name": "Avena natural seca",
+      "id": 6,
+      "srcimg": "https://floressecas.com/4333-medium_default/avena-seca-natural.jpg"
+    },
+    {
+      "name": "Broom rosat sec",
+      "id": 7,
+      "srcimg": "https://floressecas.com/4353-large_default/broom-bloom-seco-rosa-mazo.jpg"
+    },
+    {
+      "name": "Lavanda natural seca",
+      "id": 8,
+      "srcimg": "https://floressecas.com/4392-medium_default/lavanda-seca-mazo.jpg"
+    },
+    {
+      "name": "Broom blanc sec",
+      "id": 9,
+      "srcimg": "https://floressecas.com/4345-medium_default/broom-bloom-seco-blanco-mazo.jpg"
+    },
+    {
+      "name": "Herba del camp natural",
+      "id": 10,
+      "srcimg": "https://floressecas.com/4421-large_default/star-grass-seco-verde-.jpg"
+    },
+    {
+      "name": "Phalaris natural sec",
+      "id": 11,
+      "srcimg": "https://floressecas.com/4405-large_default/phalaris-seco-natural.jpg"
+    },
+    {
+      "name": "Papaver rosat sec",
+      "id": 12,
+      "srcimg": "https://floressecas.com/4320-medium_default/papaver-seco-rosa-mazo.jpg"
+    }
+  ]
